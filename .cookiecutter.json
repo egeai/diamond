@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Bertan Ulusoy",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "info@egelabs.com",
+  "friendly_name": "Diamond",
+  "github_user": "bertanulusoy",
+  "license": "MIT",
+  "package_name": "DiamondScraper",
+  "project_name": "diamond",
+  "version": "0.0.1"
+}
